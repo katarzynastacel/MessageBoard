@@ -1,0 +1,35 @@
+/* Provide sufficient contrast against white background */
+
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.is-danger {
+  position: fixed;
+  top: 25px;
+  right: 25px;
+}
+
+.ul > li {
+  font-size: 25px;
+  margin: 5px;
+}
+
+.header {
+  margin: 100px;
+}
